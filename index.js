@@ -65,4 +65,4 @@ function mult(number){
 let names = "kamran"
 greet(names);
 
-console.log(mult(12);)
+console.log(mult(12))
