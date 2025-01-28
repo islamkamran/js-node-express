@@ -40,3 +40,20 @@ const person = {
 
 console.log(person);
 console.log(person.firstName);
+
+if (1) {
+  console.log(true);
+}
+// true ->1
+// false ->0
+
+login = false;
+
+console.log(login + 10);
+
+// booleans are internally 1 and 0 and can be used as numbers
+
+// string "1"+"1"
+
+console.log("123" * 3); //basically this is type casting in js like we convert in python
+console.log(typeof ("a" + 1)); //0
